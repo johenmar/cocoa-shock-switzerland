@@ -1,6 +1,6 @@
 # Cocoa quadrupled. What it did to Swiss chocolate, and what comes next
 
-**A consulting-style case study with public Swiss data: how fast and how far the 2023–25 cocoa price shock reached Swiss shelf prices and export prices, and what the recent fall in cocoa implies for the next twelve months**
+**A case study with public Swiss data: how fast and how far the 2023–25 cocoa price shock reached Swiss shelf prices and export prices, and what the recent fall in cocoa implies for the next twelve months**
 
 Joe Martin · BSc Food Science & Technology, ETH Zurich · jomartin@ethz.ch
 
